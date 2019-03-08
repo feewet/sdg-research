@@ -1,0 +1,43 @@
+.Paragraph {
+  position: relative;
+  font-family: 'Montserrat', sans-serif;
+  top: 5rem;
+  width: 50%;
+  margin: auto;
+  line-height: normal;
+  font-size: 20px;
+  text-align: justify;
+  color: black;
+}
+
+.Heading {
+  position: relative;
+  top: 3rem;
+  width: 50%;
+  margin: auto;
+  font-family: SF Pro Display, sans-serif;
+  line-height: normal;
+  font-size: 26px;
+  color: black;
+}
+
+.Link {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  transition: .3s ease;
+  position: relative;
+  padding: 2rem;
+  top: 12rem;
+  text-decoration: none;
+  cursor: pointer;
+  outline: 0;
+  background-color: lightgray;
+  border-radius: 2%;
+  border-color: black;
+  color: black;
+}
+
+.Link:hover {
+  opacity: 75%;
+  background-color: whitesmoke;
+}

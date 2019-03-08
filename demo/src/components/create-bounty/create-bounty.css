@@ -1,0 +1,83 @@
+.CreateBounty {
+  position: relative;
+  width: 50%;
+  margin: auto;
+  color: black;
+  font-family: SF Pro Display, sans-serif;
+}
+
+.Title {
+  top: 2.5rem;
+  line-height: normal;
+  font-size: 38px;
+}
+
+.Subtitle {
+  top: 2.5rem;
+  line-height: normal;
+  font-size: 26px;
+}
+
+.TitleInput {
+  width: 40rem;
+  height: 3rem;
+}
+
+.GoalInput {
+  width: 40rem;
+  height: 6rem;
+}
+
+.ScopeInput {
+  width: 40rem;
+  height: 10rem;
+}
+
+.AmountInput {
+  width: 40rem;
+  height: 2rem;
+  margin-bottom: 2rem;
+}
+
+.Form {
+  margin-top: 2rem;
+}
+
+.Button {
+  border-radius: 2%;
+  cursor: pointer;
+  outline: 0;
+  border: 0;
+  background-color: lightgray;
+  height: 4rem;
+  width: 9rem;
+  font-weight: bold;
+  font-size: 1.2em;
+  color: black;
+}
+
+.DifficultyButton {
+  border-color: lightgray;
+  border-radius: 2%;
+  background-color: lightgray;
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  outline: 0;
+  height: 4rem;
+  width: 9rem;
+  margin-right: 2rem;
+}
+
+.Link {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  position: relative;
+  padding: 2rem;
+  top: 4rem;
+  text-decoration: none;
+  cursor: pointer;
+  outline: 0;
+  background-color: black;
+  color: whitesmoke;
+}
